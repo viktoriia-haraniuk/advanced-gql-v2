@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "email": "member@member.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1571213104370,
+      "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "test@test.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1701173033020,
+      "id": "iiIHQqqK_GhcqM53zU8c5"
+    },
+    {
+      "email": "test_member@test.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1701173604086,
+      "id": "ngBuZWwCcFdU-TOUrdot4"
+    },
+    {
+      "email": "test_member1@test.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1701181190793,
+      "id": "izfuG0WlDNailBPhmchg2"
+    },
+    {
+      "email": "test_member2@test.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1701245331354,
+      "id": "Zbyhb59HEJfkcSa1fbimS"
+    },
+    {
+      "email": "test_member3@test.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1701253080137,
+      "id": "b99vJtVCx3sZ3jgIDfAc6"
+    }
+  ],
+  "posts": [
+    {
+      "message": "This is my first post",
+      "author": "iiIHQqqK_GhcqM53zU8c5",
+      "createdAt": 1701180925750,
+      "id": "R93TRD2dL9yP9pnebk9Vl"
+    },
+    {
+      "message": "This is my second post",
+      "author": "iiIHQqqK_GhcqM53zU8c5",
+      "createdAt": 1701181169040,
+      "id": "jHXeGMXr-vKwsaMBmf9ez"
+    },
+    {
+      "message": "This is my second post",
+      "author": "iiIHQqqK_GhcqM53zU8c5",
+      "createdAt": 1701181225386,
+      "id": "j9Jjiv8CD03_nMF4lq0ty"
+    },
+    {
+      "message": "This is my second post",
+      "author": "iiIHQqqK_GhcqM53zU8c5",
+      "createdAt": 1701181239440,
+      "id": "briugVS9fGqxNcBtWAWaV"
+    },
+    {
+      "message": "This is my second post",
+      "author": "iiIHQqqK_GhcqM53zU8c5",
+      "createdAt": 1701181250349,
+      "id": "e1y6RkMCbEVCSifsZsdcq"
+    }
+  ],
+  "settings": []
+}
